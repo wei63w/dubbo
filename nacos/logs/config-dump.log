@@ -1,0 +1,96 @@
+2024-12-26 13:42:52,905 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=
+
+2024-12-26 13:42:52,905 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=
+
+2024-12-26 13:42:52,916 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:42:52,916 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:42:52,916 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService+mapping, 1735148028000, length=11,md5UTF8=41b2cdb8f3ac37401bd04c63e6ffe141
+
+2024-12-26 13:42:52,916 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP, 1735148028000, length=1497,md5UTF8=0b70a8a974656504a12a1a99bc5a4ed5
+
+2024-12-26 13:45:41,097 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=
+
+2024-12-26 13:45:41,097 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=
+
+2024-12-26 13:45:41,102 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:45:41,102 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:45:41,102 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService+mapping, 1735148028000, length=11,md5UTF8=41b2cdb8f3ac37401bd04c63e6ffe141
+
+2024-12-26 13:45:41,102 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP, 1735148028000, length=1497,md5UTF8=0b70a8a974656504a12a1a99bc5a4ed5
+
+2024-12-26 13:48:15,586 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=
+
+2024-12-26 13:48:15,586 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=
+
+2024-12-26 13:48:15,590 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:48:15,590 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:48:15,590 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService+mapping, 1735148028000, length=11,md5UTF8=41b2cdb8f3ac37401bd04c63e6ffe141
+
+2024-12-26 13:48:15,590 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP, 1735148028000, length=1497,md5UTF8=0b70a8a974656504a12a1a99bc5a4ed5
+
+2024-12-26 13:49:42,488 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=
+
+2024-12-26 13:49:42,488 INFO [dump] md5 changed, save to disk cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=
+
+2024-12-26 13:49:42,493 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService+mapping+public, newMd5=41b2cdb8f3ac37401bd04c63e6ffe141,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:49:42,493 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP+public, newMd5=0b70a8a974656504a12a1a99bc5a4ed5,oldMd5=,lastModifiedTs=1735148028000
+
+2024-12-26 13:49:42,493 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService+mapping, 1735148028000, length=11,md5UTF8=41b2cdb8f3ac37401bd04c63e6ffe141
+
+2024-12-26 13:49:42,493 INFO [dump-all-ok] org.apache.dubbo.mock.api.MockService:::provider:dubbo-admin+DEFAULT_GROUP, 1735148028000, length=1497,md5UTF8=0b70a8a974656504a12a1a99bc5a4ed5
+
+2024-12-26 14:55:37,677 INFO [dump] add formal task. groupKey=com.wyc.demodubboapi.service.HelloService:::provider:dubbo-provider+dubbo
+
+2024-12-26 14:55:37,677 INFO [dump] add formal task. groupKey=com.wyc.demodubboapi.service.HelloService+mapping
+
+2024-12-26 14:55:37,698 INFO [dump] process formal task. groupKey=com.wyc.demodubboapi.service.HelloService:::provider:dubbo-provider+dubbo
+
+2024-12-26 14:55:37,704 INFO [dump] md5 changed, save to disk cache ,groupKey=com.wyc.demodubboapi.service.HelloService:::provider:dubbo-provider+dubbo, newMd5=5da88c6032479800f9e70b53856c9ebb,oldMd5=
+
+2024-12-26 14:55:37,712 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=com.wyc.demodubboapi.service.HelloService:::provider:dubbo-provider+dubbo, newMd5=5da88c6032479800f9e70b53856c9ebb,oldMd5=,lastModifiedTs=1735196138000
+
+2024-12-26 14:55:37,712 INFO [dump] process formal task. groupKey=com.wyc.demodubboapi.service.HelloService+mapping
+
+2024-12-26 14:55:37,713 INFO [dump] md5 changed, save to disk cache ,groupKey=com.wyc.demodubboapi.service.HelloService+mapping, newMd5=5d51513e5c5e57317a9933f2ac651ea5,oldMd5=
+
+2024-12-26 14:55:37,715 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=com.wyc.demodubboapi.service.HelloService+mapping, newMd5=5d51513e5c5e57317a9933f2ac651ea5,oldMd5=,lastModifiedTs=1735196138000
+
+2024-12-26 15:09:21,323 INFO [dump] add formal task. groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 15:09:21,354 INFO [dump] process formal task. groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 15:09:21,355 INFO [dump] md5 changed, save to disk cache ,groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405, newMd5=9b200f327403337d7f3dc4ddc015ce3c,oldMd5=
+
+2024-12-26 15:09:21,356 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405, newMd5=9b200f327403337d7f3dc4ddc015ce3c,oldMd5=,lastModifiedTs=1735196961000
+
+2024-12-26 17:51:01,178 INFO [dump] add formal task. groupKey=dbconfig+DEFAULT_GROUP+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 17:51:01,259 INFO [dump] process formal task. groupKey=dbconfig+DEFAULT_GROUP+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 17:51:01,260 INFO [dump] md5 changed, save to disk cache ,groupKey=dbconfig+DEFAULT_GROUP+8c8fc7ac-0ba6-427e-ac41-681b247cb405, newMd5=576ad7d2a6e19d89bd093eaf9316cab4,oldMd5=
+
+2024-12-26 17:51:01,260 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=dbconfig+DEFAULT_GROUP+8c8fc7ac-0ba6-427e-ac41-681b247cb405, newMd5=576ad7d2a6e19d89bd093eaf9316cab4,oldMd5=,lastModifiedTs=1735206661000
+
+2024-12-26 18:21:17,814 INFO [dump] add formal task. groupKey=customconfig+cusgroup+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 18:21:17,877 INFO [dump] process formal task. groupKey=customconfig+cusgroup+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 18:21:17,878 INFO [dump] md5 changed, save to disk cache ,groupKey=customconfig+cusgroup+8c8fc7ac-0ba6-427e-ac41-681b247cb405, newMd5=9b200f327403337d7f3dc4ddc015ce3c,oldMd5=
+
+2024-12-26 18:21:17,880 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=customconfig+cusgroup+8c8fc7ac-0ba6-427e-ac41-681b247cb405, newMd5=9b200f327403337d7f3dc4ddc015ce3c,oldMd5=,lastModifiedTs=1735208478000
+
+2024-12-26 18:21:21,149 INFO [dump] add formal task. groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 18:21:21,237 INFO [dump] process formal task. groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405
+
+2024-12-26 18:21:21,237 INFO [dump] remove  local disk cache,groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405 
+
+2024-12-26 18:21:21,238 INFO [dump] remove  local jvm cache,groupKey=001+dubboproject+8c8fc7ac-0ba6-427e-ac41-681b247cb405 
+

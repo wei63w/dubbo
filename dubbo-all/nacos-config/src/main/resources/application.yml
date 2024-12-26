@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: nacos-config
+#  config:
+#    import: nacos:customconfig.cusgroup.properties
+#  cloud:
+#    nacos:
+#      config:
+#        refresh-enabled: true
+#        server-addr: 127.0.0.1:8848
+#        namespace: 8c8fc7ac-0ba6-427e-ac41-681b247cb405
+#        group: cusgroup
+#        file-extension: properties
+#      discovery:
+#        server-addr: 127.0.0.1:8848
+
+server:
+  port: 8849
+nacos:
+  config:
+    server-addr: 127.0.0.1:8848
+#    namespace: 8c8fc7ac-0ba6-427e-ac41-681b247cb405
+#    auto-refresh: true
+#    group: cusgroup
+#    ext-config: [
+#      {
+#        data-id: application.yml,
+#        group: cusgroup,
+#        auto-refresh: true
+#      }
+#    ]
